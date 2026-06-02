@@ -42,8 +42,11 @@
       .h2(data-aos="fade-right") 4.2 Tipos 
     .mb-0 
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
+    .row.justify-content-center.align-items-start.mb-0
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+        figure
+          img(src='@/assets/curso/tema4/img_4.png', class="img-fluid")
+      .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="flip-left")
         p.mb-3(data-aos="zoom-in-right") En muchos países latinoamericanos se reconocen diferentes tipos de grupos étnicos, los cuales presentan características culturales, sociales y territoriales particulares.
         p.mb-3(data-aos="zoom-in-right") Entre los principales grupos étnicos se encuentran:
         TabsA.color-secundario.mb-3.dos
@@ -64,9 +67,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
                 p.mb-0 Son grupos étnicos que poseen identidad cultural, lingüística e histórica propia, asociada principalmente a territorios insulares y procesos de resistencia cultural y comunitaria.
-      .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src='@/assets/curso/tema4/img_4.png', class="img-fluid")
+      
 
     Separador
 
@@ -234,7 +235,7 @@
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Desarrollo territorial.
         p.mb-3(data-aos="zoom-in-right") A continuación, se presentan algunas normas e instituciones nacionales que regulan y orientan el desarrollo agropecuario, ambiental y territorial en Colombia
-      .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema4/img_14.png', class="img-fluid")
 

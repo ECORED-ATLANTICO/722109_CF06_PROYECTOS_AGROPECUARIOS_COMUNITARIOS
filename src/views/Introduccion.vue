@@ -19,7 +19,7 @@
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-3(data-aos="zoom-in-right") La gestión de proyectos comunitarios constituye una herramienta estratégica para el desarrollo rural, ya que permite articular recursos, actores y conocimientos en torno a objetivos comunes. En este sentido, el componente aborda conceptos fundamentales como la formulación de proyectos, el análisis de línea base, la planificación estratégica, la identificación de riesgos, la gestión financiera, el monitoreo y la evaluación de resultados. Asimismo, integra enfoques transversales como la participación campesina, el enfoque diferencial, la sostenibilidad ambiental, la seguridad y salud en el trabajo y la gestión de la información.
         p.mb-0(data-aos="zoom-in-right") El desarrollo rural sostenible exige una visión integral que reconozca las dinámicas socioculturales de la comunidad campesina, la diversidad étnica, las organizaciones comunitarias y la interacción con entidades públicas y privadas. Por ello, este componente promueve la concertación, la negociación, la comunicación efectiva y la construcción colectiva de soluciones, fortaleciendo el tejido social y la gobernanza territorial.
-      .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/introduccion/img_2.png', class="img-fluid")
 

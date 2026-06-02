@@ -8,7 +8,7 @@
       h1 Organizaciones comunitarias
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_1.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="flip-left") 
@@ -28,7 +28,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-3.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
             figure
-              img(src='@/assets/curso/tema3/img_2.svg', class="img-fluid")
+              img(src='@/assets/curso/tema3/img_2.svg', class="img-fluid d-none d-lg-block")
           .col-12.col-lg-10
             p.mb-0(data-aos="zoom-in-right") Las organizaciones comunitarias pueden definirse como estructuras sociales conformadas por personas que se agrupan voluntariamente para trabajar de manera conjunta en la solución de problemas, la gestión de recursos y la promoción del desarrollo en su comunidad. Estas organizaciones se caracterizan por su naturaleza participativa, su orientación hacia el bienestar colectivo y su capacidad para movilizar esfuerzos comunitarios en torno a objetivos comunes.
         .tarjeta.color-secundario-10.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
@@ -37,15 +37,20 @@
               p.mb-0 En el ámbito rural, las organizaciones comunitarias suelen surgir como respuesta a necesidades relacionadas con:
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta El acceso a recursos productivos.
+                  i.lista-ul__vineta 
+                  span El acceso a recursos productivos.
                 li
-                  i.lista-ul__vineta La mejora de la infraestructura rural.
+                  i.lista-ul__vineta 
+                  span La mejora de la infraestructura rural.
                 li
-                  i.lista-ul__vineta La comercialización de productos agrícolas.
+                  i.lista-ul__vineta 
+                  span La comercialización de productos agrícolas.
                 li
-                  i.lista-ul__vineta La defensa de los derechos territoriales.
+                  i.lista-ul__vineta 
+                  span La defensa de los derechos territoriales.
                 li
-                  i.lista-ul__vineta La protección del medio ambiente.
+                  i.lista-ul__vineta 
+                  span La protección del medio ambiente.
             .col-3.col-lg-2.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/img_3.svg', class="img-fluid")
@@ -108,7 +113,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-3.col-lg-1.mb-3.mb-lg-0
         figure
-          img(src='@/assets/curso/tema3/img_10.svg', class="img-fluid")
+          img(src='@/assets/curso/tema3/img_10.svg', class="img-fluid d-none d-lg-block")
       .col-12.col-lg-11
         p.mb-0 Las organizaciones comunitarias presentan una serie de características que permiten su funcionamiento y sostenibilidad dentro del territorio.
     
@@ -164,7 +169,7 @@
       .h2(data-aos="fade-right") 3.4 Estructura organizativa
     .mb-0 
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+    .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img_11.png')})`}"
       )
@@ -186,15 +191,20 @@
             p.mb-0 Generalmente está conformada por:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Presidente.
+                i.lista-ul__vineta 
+                span Presidente.
               li
-                i.lista-ul__vineta Vicepresidente.
+                i.lista-ul__vineta 
+                span Vicepresidente.
               li
-                i.lista-ul__vineta Secretario.
+                i.lista-ul__vineta 
+                span Secretario.
               li
-                i.lista-ul__vineta Tesorero.
+                i.lista-ul__vineta 
+                span Tesorero.
               li
-                i.lista-ul__vineta Vocales o coordinadores.
+                i.lista-ul__vineta 
+                span Vocales o coordinadores.
       .tarjeta.color-secundario-10.p-5(titulo="Representante legal")
         .row.justify-content-center.align-items-center.mb-0
           .col-12.col-lg-12.mb-0
@@ -206,15 +216,20 @@
             p.mb-0 Comités más comunes:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Comité de producción. 
+                i.lista-ul__vineta 
+                span Comité de producción. 
               li
-                i.lista-ul__vineta Comité ambiental. 
+                i.lista-ul__vineta 
+                span Comité ambiental. 
               li
-                i.lista-ul__vineta Comité de comercialización. 
+                i.lista-ul__vineta 
+                span Comité de comercialización. 
               li
-                i.lista-ul__vineta Comité financiero. 
+                i.lista-ul__vineta 
+                span Comité financiero. 
               li
-                i.lista-ul__vineta Comité de convivencia y participación.
+                i.lista-ul__vineta 
+                span Comité de convivencia y participación.
       .tarjeta.color-secundario-10.p-5(titulo="Integrantes o asociados")
         .row.justify-content-center.align-items-center.mb-0
           .col-12.col-lg-12.mb-0
@@ -249,54 +264,66 @@
                 p.mb-0 Representa legalmente a la organización ante entidades públicas y privadas y lidera los procesos comunitarios.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Gestiona proyectos, convenios y apoyos institucionales.
+                    i.lista-ul__vineta 
+                    span Gestiona proyectos, convenios y apoyos institucionales.
                   li
-                    i.lista-ul__vineta Toma decisiones estratégicas y representa los intereses de la organización.
+                    i.lista-ul__vineta 
+                    span Toma decisiones estratégicas y representa los intereses de la organización.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-4 Junta directiva
                 p.mb-0 Coordina, administra y organiza las actividades para el cumplimiento de los objetivos comunes.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Planifica y coordina actividades, reuniones y proyectos.
+                    i.lista-ul__vineta 
+                    span Planifica y coordina actividades, reuniones y proyectos.
                   li
-                    i.lista-ul__vineta Administra recursos y realiza seguimiento a los acuerdos.
+                    i.lista-ul__vineta 
+                    span Administra recursos y realiza seguimiento a los acuerdos.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-4 Comités de trabajo
                 p.mb-0 Grupos encargados de desarrollar actividades específicas y apoyar el funcionamiento de la organización.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Ejecutan actividades y proyectos en áreas específicas.
+                    i.lista-ul__vineta 
+                    span Ejecutan actividades y proyectos en áreas específicas.
                   li
-                    i.lista-ul__vineta Proponen soluciones, identifican necesidades y apoyan la toma de decisiones.
+                    i.lista-ul__vineta 
+                    span Proponen soluciones, identifican necesidades y apoyan la toma de decisiones.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-4 Integrantes o asociados
                 p.mb-0 Son la base de la organización y participan activamente en las decisiones y actividades comunitarias.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Participan en reuniones, asambleas y actividades.
+                    i.lista-ul__vineta 
+                    span Participan en reuniones, asambleas y actividades.
                   li
-                    i.lista-ul__vineta Aportan ideas, trabajo y recursos para el desarrollo de proyectos.
+                    i.lista-ul__vineta 
+                    span Aportan ideas, trabajo y recursos para el desarrollo de proyectos.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-4 Tesorero(a)
                 p.mb-0 Administra los recursos económicos de la organización de manera responsable y transparente.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Maneja los ingresos y egresos y lleva registros contables.
+                    i.lista-ul__vineta 
+                    span Maneja los ingresos y egresos y lleva registros contables.
                   li
-                    i.lista-ul__vineta Presenta informes financieros y garantiza el buen uso de los recursos.
+                    i.lista-ul__vineta 
+                    span Presenta informes financieros y garantiza el buen uso de los recursos.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-4 Secretario(a)
                 p.mb-0 Lleva el control de la información, documentación y comunicaciones de la organización.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta Redacta actas, acuerdos y documentos importantes.
+                    i.lista-ul__vineta 
+                    span Redacta actas, acuerdos y documentos importantes.
                   li
-                    i.lista-ul__vineta Mantiene la comunicación interna y externa y organiza archivos y registros.
+                    i.lista-ul__vineta 
+                    span Mantiene la comunicación interna y externa y organiza archivos y registros.
 </template>
 
 <script>

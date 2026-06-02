@@ -39,7 +39,7 @@
     p.mb-4(data-aos="flip-left") Los planes de acción pueden clasificarse de diferentes maneras dependiendo de su propósito, alcance y duración dentro de un proyecto o proceso organizacional. En el ámbito de los proyectos comunitarios se pueden identificar principalmente los siguientes tipos:
 
     .row.justify-content-center.mb-5
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="100" tabindex="0")
           .crd_hover_txt--img
             figure
@@ -47,7 +47,7 @@
           .crd_hover_txt--body
             h4 Estratégico
             p Está orientado al cumplimiento de objetivos de largo plazo y se relaciona con la visión general del proyecto o de la organización comunitaria. Define las grandes líneas de intervención, prioridades y metas que se desean alcanzar en el proceso de desarrollo.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="100" tabindex="0")
           .crd_hover_txt--img
             figure
@@ -55,7 +55,7 @@
           .crd_hover_txt--body
             h4 Operativo
             p Detalla las actividades específicas que deben ejecutarse para cumplir los objetivos del proyecto en el corto o mediano plazo. Incluye tareas concretas, responsables, recursos requeridos y cronogramas de ejecución.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="100" tabindex="0")
           .crd_hover_txt--img
             figure
@@ -63,13 +63,13 @@
           .crd_hover_txt--body
             h4 Participativo
             p Se caracteriza por ser construido de manera conjunta entre los diferentes actores involucrados en el proyecto, incluyendo líderes comunitarios, organizaciones sociales, entidades públicas, organizaciones no gubernamentales y técnicos facilitadores.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="100" tabindex="0")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema6/img_6.png", alt="Observación directa en campo del proyecto")
           .crd_hover_txt--body
-            h4 Correctivo.
+            h4 Correctivo
             p Se elabora cuando se identifican desviaciones, problemas o dificultades en la ejecución del proyecto. Su objetivo es implementar medidas correctivas que permitan mejorar el desempeño de las actividades y garantizar el cumplimiento de los objetivos planteados.
 
     p.mb-5(data-aos="flip-left") El plan de acción es un instrumento fundamental para la gestión eficiente de proyectos comunitarios y procesos de desarrollo rural, ya que permite organizar de manera sistemática las acciones necesarias para alcanzar los resultados esperados. Una de las principales ventajas del plan de acción es que facilita la claridad en la ejecución de las actividades, evitando improvisaciones y permitiendo que todos los actores involucrados conozcan sus responsabilidades dentro del proyecto. Esto contribuye a mejorar la coordinación entre los equipos de trabajo y a optimizar el uso de los recursos disponibles.

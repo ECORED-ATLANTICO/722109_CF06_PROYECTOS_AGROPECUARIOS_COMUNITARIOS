@@ -18,7 +18,7 @@
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         p.mb-3(data-aos="zoom-in-right") La comunidad campesina no solo representa una unidad económica dedicada a la producción de alimentos, sino también una unidad social y cultural que conserva saberes ancestrales, prácticas productivas sostenibles y formas propias de organización comunitaria. Estas comunidades desempeñan un papel fundamental en la seguridad alimentaria, la conservación de los recursos naturales y el mantenimiento de la diversidad cultural en los territorios rurales.
         p.mb-0(data-aos="zoom-in-right") En el contexto de los proyectos comunitarios, el reconocimiento de las características, dinámicas y necesidades de las comunidades campesinas es fundamental para diseñar estrategias de desarrollo rural que sean participativas, sostenibles y pertinentes con la realidad territorial.
-      .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_2.png', class="img-fluid")
 
@@ -60,7 +60,7 @@
             p.mb-0 Las relaciones sociales dentro de la comunidad suelen estar basadas en valores de solidaridad, apoyo mutuo y reciprocidad.
           div(titulo="Identidad cultural rural")
             p.mb-0 Las comunidades campesinas mantienen tradiciones culturales relacionadas con la gastronomía, las celebraciones, las prácticas religiosas y las expresiones artísticas propias del territorio.
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_5.png', class="img-fluid")
     
@@ -83,7 +83,7 @@
     p.mb-4(data-aos="zoom-in-right") El contexto político hace referencia al conjunto de relaciones, instituciones, normas y procesos de toma de decisiones que influyen en la vida de las comunidades rurales. En muchos casos, las comunidades campesinas enfrentan desafíos relacionados con el acceso a la tierra, la representación política, la participación en la toma de decisiones y el acceso a programas de desarrollo.
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_6.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="flip-left")
@@ -145,13 +145,17 @@
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Producción de hortalizas. 
+                i.lista-ul__vineta 
+                span Producción de hortalizas. 
               li
-                i.lista-ul__vineta Cultivos de café, maíz, arroz y frutales. 
+                i.lista-ul__vineta 
+                span Cultivos de café, maíz, arroz y frutales. 
               li
-                i.lista-ul__vineta Agricultura orgánica y agroecológica. 
+                i.lista-ul__vineta 
+                span Agricultura orgánica y agroecológica. 
               li
-                i.lista-ul__vineta Producción de semillas.
+                i.lista-ul__vineta 
+                span Producción de semillas.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_13.png', class="img-fluid")
@@ -162,15 +166,20 @@
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Avicultura. 
+                i.lista-ul__vineta 
+                span Avicultura. 
               li
-                i.lista-ul__vineta Ganadería. 
+                i.lista-ul__vineta 
+                span Ganadería. 
               li
-                i.lista-ul__vineta Porcicultura. 
+                i.lista-ul__vineta 
+                span Porcicultura. 
               li
-                i.lista-ul__vineta Piscicultura. 
+                i.lista-ul__vineta 
+                span Piscicultura. 
               li
-                i.lista-ul__vineta Producción apícola.
+                i.lista-ul__vineta 
+                span Producción apícola.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
@@ -181,11 +190,14 @@
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Producción de lácteos. 
+                i.lista-ul__vineta 
+                span Producción de lácteos. 
               li
-                i.lista-ul__vineta Transformación de frutas. 
+                i.lista-ul__vineta 
+                span Transformación de frutas. 
               li
-                i.lista-ul__vineta Elaboración de conservas y alimentos procesados. 
+                i.lista-ul__vineta 
+                span Elaboración de conservas y alimentos procesados. 
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_15.png', class="img-fluid")
@@ -196,13 +208,17 @@
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Ferias campesinas. 
+                i.lista-ul__vineta 
+                span Ferias campesinas. 
               li
-                i.lista-ul__vineta Mercados locales. 
+                i.lista-ul__vineta 
+                span Mercados locales. 
               li
-                i.lista-ul__vineta Comercialización asociativa. 
+                i.lista-ul__vineta 
+                span Comercialización asociativa. 
               li
-                i.lista-ul__vineta Venta directa al consumidor.
+                i.lista-ul__vineta 
+                span Venta directa al consumidor.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_16.png', class="img-fluid")
@@ -213,13 +229,17 @@
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Artesanías tradicionales. 
+                i.lista-ul__vineta 
+                span Artesanías tradicionales. 
               li
-                i.lista-ul__vineta Turismo rural. 
+                i.lista-ul__vineta 
+                span Turismo rural. 
               li
-                i.lista-ul__vineta Producción de plantas ornamentales. 
+                i.lista-ul__vineta 
+                span Producción de plantas ornamentales. 
               li
-                i.lista-ul__vineta Servicios comunitarios.
+                i.lista-ul__vineta 
+                span Servicios comunitarios.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_17.png', class="img-fluid")

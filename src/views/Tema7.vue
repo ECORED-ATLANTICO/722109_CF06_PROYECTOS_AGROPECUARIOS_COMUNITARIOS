@@ -80,17 +80,23 @@
               p.mb-0 Algunas de sus principales características son:
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Uso sostenible del suelo agrícola.
+                  i.lista-ul__vineta 
+                  span Uso sostenible del suelo agrícola.
                 li
-                  i.lista-ul__vineta Conservación de la biodiversidad.
+                  i.lista-ul__vineta 
+                  span Conservación de la biodiversidad.
                 li
-                  i.lista-ul__vineta Manejo adecuado del agua.
+                  i.lista-ul__vineta 
+                  span Manejo adecuado del agua.
                 li
-                  i.lista-ul__vineta Protección de ecosistemas naturales.
+                  i.lista-ul__vineta 
+                  span Protección de ecosistemas naturales.
                 li
-                  i.lista-ul__vineta Promoción de prácticas agroecológicas.
+                  i.lista-ul__vineta 
+                  span Promoción de prácticas agroecológicas.
                 li
-                  i.lista-ul__vineta Participación comunitaria en la conservación del territorio.
+                  i.lista-ul__vineta 
+                  span Participación comunitaria en la conservación del territorio.
               p.mb-0(data-aos="zoom-in-right") Estas acciones contribuyen al desarrollo de sistemas productivos sostenibles.
             .col-3.col-lg-2.mb-3.mb-lg-0
               figure
@@ -110,11 +116,14 @@
           p.mb-0 Entre las principales normas ambientales en Colombia se destacan:
           ul.lista-ul.mb-4
             li
-              i.lista-ul__vineta Ley 99 de 1993, que creó el Sistema Nacional Ambiental (SINA).
+              i.lista-ul__vineta 
+              span Ley 99 de 1993, que creó el Sistema Nacional Ambiental (SINA).
             li
-              i.lista-ul__vineta Decreto 1076 de 2015, que compila la normativa ambiental.
+              i.lista-ul__vineta  
+              span Decreto 1076 de 2015, que compila la normativa ambiental.
             li
-              i.lista-ul__vineta Normas relacionadas con el uso del agua, manejo de residuos y protección de ecosistemas.
+              i.lista-ul__vineta  
+              span Normas relacionadas con el uso del agua, manejo de residuos y protección de ecosistemas.
           p.mb-0 Entre las entidades que regula la normatividad ambiental tenemos:
       .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
@@ -166,15 +175,20 @@
               p.mb-0 La gestión del agua implica:
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Uso eficiente del recurso.
+                  i.lista-ul__vineta 
+                  span Uso eficiente del recurso.
                 li
-                  i.lista-ul__vineta Protección de fuentes hídricas.
+                  i.lista-ul__vineta 
+                  span Protección de fuentes hídricas.
                 li
-                  i.lista-ul__vineta Control de la contaminación.
+                  i.lista-ul__vineta 
+                  span Control de la contaminación.
                 li
-                  i.lista-ul__vineta Implementación de sistemas de riego sostenibles.
+                  i.lista-ul__vineta 
+                  span Implementación de sistemas de riego sostenibles.
                 li
-                  i.lista-ul__vineta Conservación de cuencas hidrográficas.
+                  i.lista-ul__vineta 
+                  span Conservación de cuencas hidrográficas.
               p.mb-0 Un manejo adecuado del agua contribuye a la seguridad alimentaria y al equilibrio de los ecosistemas.
       .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
@@ -187,7 +201,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema7/img_12.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0

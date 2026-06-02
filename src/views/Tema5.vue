@@ -35,17 +35,23 @@
               p.mb-0 En el ámbito de los proyectos comunitarios, las fuentes de información permiten conocer aspectos relacionados con:
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Las condiciones sociales y económicas de la comunidad.
+                  i.lista-ul__vineta 
+                  span Las condiciones sociales y económicas de la comunidad.
                 li
-                  i.lista-ul__vineta Las características del territorio.
+                  i.lista-ul__vineta 
+                  span Las características del territorio.
                 li
-                  i.lista-ul__vineta Los recursos naturales disponibles.
+                  i.lista-ul__vineta 
+                  span Los recursos naturales disponibles.
                 li
-                  i.lista-ul__vineta Las actividades productivas predominantes.
+                  i.lista-ul__vineta 
+                  span Las actividades productivas predominantes.
                 li
-                  i.lista-ul__vineta Las necesidades y problemáticas de la población.
+                  i.lista-ul__vineta 
+                  span Las necesidades y problemáticas de la población.
                 li
-                  i.lista-ul__vineta Las oportunidades de desarrollo local.
+                  i.lista-ul__vineta 
+                  span Las oportunidades de desarrollo local.
             .col-3.col-lg-2.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/img_3.svg', class="img-fluid")
@@ -71,11 +77,14 @@
             p.mb-0 Ejemplos de fuentes primarias:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Entrevistas a líderes comunitarios.
+                i.lista-ul__vineta 
+                span Entrevistas a líderes comunitarios.
               li
-                i.lista-ul__vineta Observación directa en el territorio.
+                i.lista-ul__vineta 
+                span Observación directa en el territorio.
               li
-                i.lista-ul__vineta Talleres participativos.
+                i.lista-ul__vineta 
+                span Talleres participativos.
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-terciario-10.p-4
           .tarjeta-icono-esquina__icono.mb-3
@@ -87,11 +96,14 @@
             p.mb-0 Ejemplos de fuentes secundarias:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Informes técnicos.
+                i.lista-ul__vineta 
+                span Informes técnicos.
               li
-                i.lista-ul__vineta Estudios de investigación.
+                i.lista-ul__vineta 
+                span Estudios de investigación.
               li
-                i.lista-ul__vineta Estadísticas oficiales.
+                i.lista-ul__vineta 
+                span Estadísticas oficiales.
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-primario-10.p-4
           .tarjeta-icono-esquina__icono.mb-3
@@ -103,11 +115,14 @@
             p.mb-0 Ejemplos de fuentes terciarias:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Bases de datos.
+                i.lista-ul__vineta 
+                span Bases de datos.
               li
-                i.lista-ul__vineta Sistemas de información estadística.
+                i.lista-ul__vineta 
+                span Sistemas de información estadística.
               li
-                i.lista-ul__vineta Plataformas digitales de consulta.
+                i.lista-ul__vineta 
+                span Plataformas digitales de consulta.
 
     Separador
 
@@ -122,6 +137,9 @@
         p.mb-0 Los métodos de consulta hacen referencia a los procedimientos utilizados para acceder, recopilar y analizar la información proveniente de diferentes fuentes. La selección del método adecuado depende del tipo de información que se requiere, del contexto del proyecto y de los recursos disponibles. Entre los principales métodos de consulta utilizados en proyectos comunitarios se encuentran los siguientes:
 
     .row.justify-content-center.align-items-start.mb-4
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+        figure
+          img(src='@/assets/curso/tema5/img_7.png', class="img-fluid")
       .col-12.col-lg-9.mb-0(data-aos="zoom-in-right")
         AcordionA(tipo="a"  clase-tarjeta="tarjeta tarjeta--color-sistema-h")
           div(titulo="Revisión documental")
@@ -136,9 +154,7 @@
             p.mb-0 Son espacios de diálogo y reflexión colectiva donde los miembros de la comunidad comparten conocimientos, identifican problemáticas y proponen soluciones. Son fundamentales para fortalecer la participación comunitaria en los procesos de planificación.
           div(titulo="Sistemas de información digital")
             p.mb-0 Actualmente existen diversas plataformas digitales que facilitan el acceso a información estadística, geográfica y socioeconómica. Estas herramientas permiten consultar datos actualizados y realizar análisis más precisos para la formulación de proyectos.
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
-        figure
-          img(src='@/assets/curso/tema5/img_7.png', class="img-fluid")
+      
 </template>
 
 <script>

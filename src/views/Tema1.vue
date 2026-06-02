@@ -24,13 +24,13 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
-          img(src='@/assets/curso/tema1/img_2.svg', class="img-fluid")
+          img(src='@/assets/curso/tema1/img_2.svg', class="img-fluid d-none d-lg-block")
       .col-12.col-lg-11
         p.mb-3(data-aos="zoom-in-right") Estos proyectos se construyen a partir de las necesidades, intereses y potencialidades del territorio, involucrando activamente a campesinos, asociaciones, organizaciones comunitarias e instituciones que trabajan de manera conjunta para alcanzar objetivos comunes.
         p.mb-0(data-aos="zoom-in-right") Un proyecto comunitario se caracteriza por:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
       .col-12.col-lg-9.mb-0(data-aos="zoom-in-right")
@@ -118,7 +118,7 @@
         .row.justify-content-center.align-items-start.mb-0
           .col-2.col-lg-1.mb-3.mb-lg-0.p-0(data-aos="flip-left")
             figure.p-1
-              img(src='@/assets/curso/tema1/img_6.svg', class="img-fluid")
+              img(src='@/assets/curso/tema1/img_6.svg', class="img-fluid d-none d-lg-block")
           .col-12.col-lg-11.mb-3.mb-lg-0(data-aos="flip-left")
             p.mb-3(data-aos="zoom-in-right") En los proyectos comunitarios, el alcance no solo contempla aspectos técnicos y productivos, sino también el impacto que las acciones pueden generar en la calidad de vida de las familias campesinas, el fortalecimiento organizativo y la sostenibilidad del territorio.
       .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
@@ -174,7 +174,7 @@
             p.mb-0 Esta metodología ayuda a identificar qué se quiere lograr, cómo se va a realizar y cuáles serán los medios para verificar el cumplimiento de los objetivos planteados.
       .tarjeta.color-secundario-10.p-5(titulo="Enfoque participativo rural (EPR)")
         .row.justify-content-center.align-items-center.mb-0
-          .col-10.col-lg-2.mb-3.mb-lg-0
+          .col-4.col-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_11.svg', class="img-fluid")
           .col-12.col-lg-10.mb-0
@@ -182,7 +182,7 @@
             p.mb-0 Utiliza herramientas como: mapas parlantes, líneas de tiempo, diagramas de flujo, matrices de priorización.
       .tarjeta.color-secundario-10.p-5(titulo="Planificación estratégica")
         .row.justify-content-center.align-items-center.mb-0
-          .col-10.col-lg-2.mb-3.mb-lg-0
+          .col-4.col-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_12.svg', class="img-fluid")
           .col-12.col-lg-10.mb-0
@@ -190,7 +190,7 @@
             p.mb-0 Esta metodología ayuda a organizar recursos, establecer prioridades y tomar decisiones que contribuyan al fortalecimiento y sostenibilidad de las iniciativas comunitarias.
       .tarjeta.color-secundario-10.p-5(titulo="Árbol de problemas y árbol de objetivos")
         .row.justify-content-center.align-items-center.mb-0
-          .col-10.col-lg-2.mb-3.mb-lg-0
+          .col-4.col-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_13.svg', class="img-fluid")
           .col-12.col-lg-10.mb-0
@@ -392,7 +392,7 @@
               .col-12.col-lg-12.mb-0
                 p.mb-0 Facilita el intercambio de información entre los actores del proyecto y fortalece la coordinación de actividades. 
                 p.mb-0 #[strong Ejemplo:] la comunidad realiza reuniones informativas para socializar avances y dificultades del proyecto. 
-      .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_26.png', class="img-fluid")
 
@@ -412,7 +412,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
-          img(src='@/assets/curso/tema1/img_28.svg', class="img-fluid")
+          img(src='@/assets/curso/tema1/img_28.svg', class="img-fluid d-none d-lg-block")
       .col-12.col-lg-11
         p.mb-3(data-aos="zoom-in-right") Estas técnicas permiten consolidar información relevante sobre el desempeño productivo, organizativo, financiero y social de la iniciativa, facilitando la optimización de recursos, el fortalecimiento de la participación comunitaria y la sostenibilidad de las acciones desarrolladas. Su aplicación favorece la capacidad de adaptación del proyecto frente a cambios del entorno, riesgos productivos o nuevas necesidades identificadas durante la fase de identificación.
 
@@ -503,7 +503,7 @@
         .row.justify-content-center.align-items-center.mb-3
           .col-3.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
             figure
-              img(src='@/assets/curso/tema1/img_33.svg', class="img-fluid")
+              img(src='@/assets/curso/tema1/img_33.svg', class="img-fluid d-none d-lg-block")
           .col-12.col-lg-10
             p.mb-0(data-aos="zoom-in-right") Los indicadores facilitan la medición de avances y resultados mediante datos que permiten evaluar el desempeño del proyecto. El presupuesto permite organizar y controlar los recursos financieros necesarios para ejecutar las actividades programadas, garantizando un uso adecuado de los recursos disponibles. Por su parte, el cronograma establece la distribución de actividades y tiempos de ejecución, facilitando la coordinación y seguimiento de las acciones desarrolladas.
         p.mb-0(data-aos="zoom-in-right") La articulación de estos componentes fortalece la planificación operativa del proyecto, mejora la toma de decisiones y contribuye al cumplimiento de metas orientadas al desarrollo productivo, organizativo y sostenible de la comunidad rural. 
@@ -527,7 +527,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
-          img(src='@/assets/curso/tema1/img_36.svg', class="img-fluid")
+          img(src='@/assets/curso/tema1/img_36.svg', class="img-fluid d-none d-lg-block")
       .col-12.col-lg-11
         p.mb-3(data-aos="zoom-in-right") Los indicadores pueden expresarse mediante datos numéricos, porcentajes, cantidades, niveles de participación o cambios observados en la comunidad. Su adecuada formulación facilita el control y la evaluación de los procesos desarrollados.
         p.mb-0(data-aos="zoom-in-right") Entre los tipos de indicadores más utilizados se encuentran:
@@ -963,7 +963,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
-          img(src='@/assets/curso/tema1/img_67.svg', class="img-fluid")
+          img(src='@/assets/curso/tema1/img_67.svg', class="img-fluid d-none d-lg-block")
       .col-12.col-lg-11
         p.mb-3(data-aos="zoom-in-right") En los proyectos comunitarios rurales, la financiación cumple un papel fundamental, ya que permite cubrir costos relacionados con insumos, infraestructura, asistencia técnica, transporte, capacitación y demás requerimientos operativos necesarios para el funcionamiento del proyecto. Asimismo, facilita la puesta en marcha de iniciativas productivas que promueven el mejoramiento de las condiciones de vida y el fortalecimiento del desarrollo rural.
     
