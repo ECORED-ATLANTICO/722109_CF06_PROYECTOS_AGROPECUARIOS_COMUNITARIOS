@@ -29,7 +29,7 @@
         p.mb-3(data-aos="zoom-in-right") Estos proyectos se construyen a partir de las necesidades, intereses y potencialidades del territorio, involucrando activamente a campesinos, asociaciones, organizaciones comunitarias e instituciones que trabajan de manera conjunta para alcanzar objetivos comunes.
         p.mb-0(data-aos="zoom-in-right") Un proyecto comunitario se caracteriza por:
 
-    .row.justify-content-center.align-items-start.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
@@ -264,20 +264,37 @@
             figure
               img(src='@/assets/curso/tema1/img_21.svg', class="img-fluid")
           .tarjeta-icono-esquina__contenido
-            h4.tarjeta-icono-esquina__titulo Característica
-            ul.lista-ul.mb-0
-              li
-                i.lista-ul__vineta #[strong Inclusiva:]
-                p.mb-0 Integra campesinos, asociaciones, mujeres y jóvenes rurales.
-              li
-                i.lista-ul__vineta #[strong Colaborativa:]
-                p.mb-0 Promueve el trabajo conjunto y la participación activa.
-              li
-                i.lista-ul__vineta #[strong strong Organizada:]
-                p.mb-0 Requiere coordinación, comunicación y distribución de responsabilidades.
-              li
-                i.lista-ul__vineta #[strong Orientada al bienestar común:]
-                p.mb-0 Busca beneficios sociales, productivos y económicos.
+            .tarjeta-icono-esquina__contenido
+              h4.tarjeta-icono-esquina__titulo Característica
+
+              ul.lista-ul.mb-0
+                li.mb-3
+                  i.lista-ul__vineta
+                  span
+                    strong Inclusiva 
+                    br
+                    |  Integra campesinos, asociaciones, mujeres y jóvenes rurales.
+
+                li.mb-3
+                  i.lista-ul__vineta
+                  span
+                    strong Colaborativa
+                    br
+                    |  Promueve el trabajo conjunto y la participación activa.
+
+                li.mb-3
+                  i.lista-ul__vineta
+                  span
+                    strong Organizada
+                    br
+                    |  Requiere coordinación, comunicación y distribución de responsabilidades.
+
+                li.mb-0
+                  i.lista-ul__vineta
+                  span
+                    strong Orientada al bienestar común
+                    br
+                    |  Busca beneficios sociales, productivos y económicos.
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-terciario-10.p-4
           .tarjeta-icono-esquina__icono.mb-3
@@ -287,13 +304,18 @@
             h4.tarjeta-icono-esquina__titulo Importancia
             ul.lista-ul.mb-0
               li.mb-4
-                i.lista-ul__vineta la integración comunitaria y la construcción de soluciones colectivas.
-              li.mb-4 
-                i.lista-ul__vineta Fortalece el compromiso, la organización y el sentido de pertenencia frente al proyecto.
-              li.mb-4 
-                i.lista-ul__vineta Facilita el cumplimiento de actividades y objetivos del proyecto.
-              li.mb-0  
-                i.lista-ul__vineta Contribuye al desarrollo rural sostenible y al mejoramiento de la calidad de vida.
+                i.lista-ul__vineta
+                span Favorece la integración comunitaria y la construcción de soluciones colectivas.
+              li.mb-4
+                i.lista-ul__vineta
+                span Fortalece el compromiso, la organización y el sentido de pertenencia frente al proyecto.
+              li.mb-4
+                i.lista-ul__vineta
+                span Facilita el cumplimiento de actividades y objetivos del proyecto.
+              li.mb-0
+                i.lista-ul__vineta
+                span Contribuye al desarrollo rural sostenible y al mejoramiento de la calidad de vida.
+
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-primario-10.p-4
           .tarjeta-icono-esquina__icono.mb-3
@@ -302,14 +324,18 @@
           .tarjeta-icono-esquina__contenido
             h4.tarjeta-icono-esquina__titulo Formas de participación
             ul.lista-ul.mb-0
-              li.mb-4 
-                i.lista-ul__vineta Reuniones, talleres y espacios de diálogo para compartir ideas y tomar decisiones.
-              li.mb-4 
-                i.lista-ul__vineta Jornadas comunitarias, actividades grupales y proyectos asociativos.
-              li.mb-4 
-                i.lista-ul__vineta Comités de trabajo, asignación de funciones y reuniones de seguimiento.
+              li.mb-4
+                i.lista-ul__vineta
+                span Reuniones, talleres y espacios de diálogo para compartir ideas, analizar problemas y tomar decisiones juntos.
+              li.mb-4
+                i.lista-ul__vineta
+                span Jornadas comunitarias, actividades grupales y proyectos asociativos para alcanzar objetivos comunes.
+              li.mb-4
+                i.lista-ul__vineta
+                span Comités de trabajo, asignación de funciones, cronogramas y reuniones de seguimiento para coordinar y evaluar acciones.
               li.mb-0
-                i.lista-ul__vineta Participación en proyectos productivos, ambientales y capacitaciones.
+                i.lista-ul__vineta
+                span Participación en proyectos productivos, actividades ambientales, capacitaciones y estrategias que mejoren las condiciones de vida.
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -399,7 +425,7 @@
     p.mb-5(data-aos="zoom-in-right") Las técnicas de monitoreo corresponden a los mecanismos utilizados para realizar seguimiento permanente al desarrollo de las actividades y verificar el comportamiento operativo del proyecto durante su ejecución. Su finalidad es controlar el avance de los procesos, validar el cumplimiento de las metas establecidas e identificar oportunamente situaciones que puedan afectar el desempeño de la iniciativa comunitaria. Entre las más importantes tenemos:
 
     .row.justify-content-center.mb-5
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="100" tabindex="0")
           .crd_hover_txt--img
             figure
@@ -407,7 +433,7 @@
           .crd_hover_txt--body
             h4 Observación directa
             p Consiste en verificar presencialmente las condiciones reales en las que se desarrollan las actividades del proyecto dentro del territorio. la observación directa resulta fundamental para evaluar variables relacionadas con el manejo de cultivos, estado sanitario animal, conservación de recursos naturales, funcionamiento de infraestructura productiva y nivel de participación comunitaria.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="200" tabindex="1")
           .crd_hover_txt--img
             figure
@@ -415,7 +441,7 @@
           .crd_hover_txt--body
             h4 Registro de actividades
             p Se basa en sistematizar datos sobre actividades desarrolladas, recursos utilizados, tiempos de ejecución, participación de beneficiarios y resultados obtenidos. Los registros pueden elaborarse mediante formatos físicos o digitales, bitácoras técnicas, listas de asistencia, reportes de producción, informes de avance y matrices de seguimiento.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="300" tabindex="3")
           .crd_hover_txt--img
             figure
@@ -423,7 +449,7 @@
           .crd_hover_txt--body
             h4 Reuniones de seguimiento
             p Son espacios de análisis técnico y organizativo orientados a revisar el comportamiento del proyecto, evaluar avances y coordinar acciones de mejora. Estas reuniones permiten fortalecer la comunicación entre los actores involucrados y facilitan la toma de decisiones de manera participativa.
-      .col-12.col-lg-3.mb-4
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="400" tabindex="4")
           .crd_hover_txt--img
             figure
@@ -661,30 +687,41 @@
             p.mb-3 Organiza información relacionada con:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Actividades.
+                i.lista-ul__vineta 
+                span Actividades.
               li
-                i.lista-ul__vineta Responsables.
+                i.lista-ul__vineta 
+                span Responsables.
               li
-                i.lista-ul__vineta Tiempos.
+                i.lista-ul__vineta 
+                span Tiempos.
               li
-                i.lista-ul__vineta Recursos.
+                i.lista-ul__vineta 
+                span Recursos.
               li
-                i.lista-ul__vineta Indicadores.
+                i.lista-ul__vineta 
+                span Indicadores.
               li
-                i.lista-ul__vineta Resultados esperados.
+                i.lista-ul__vineta 
+                span Resultados esperados.
           .tarjeta.color-secundario-10.p-5(titulo="Software y herramientas digitales")
             p.mb-3 Actualmente existen herramientas tecnológicas que permiten elaborar cronogramas de manera más organizada y dinámica. Entre las más utilizadas se encuentran:
             ul.lista-ul.mb-0
               li
-                i.lista-ul__vineta Microsoft Excel.
+                i.lista-ul__vineta 
+                span Microsoft Excel.
               li
-                i.lista-ul__vineta Microsoft Project.
+                i.lista-ul__vineta 
+                span Microsoft Project.
               li
-                i.lista-ul__vineta Trello.
+                i.lista-ul__vineta 
+                span Trello.
               li
-                i.lista-ul__vineta Asana.
+                i.lista-ul__vineta 
+                span Asana.
               li
-                i.lista-ul__vineta Google Calendar.
+                i.lista-ul__vineta 
+                span Google Calendar.
 
     Separador
 
@@ -727,57 +764,71 @@
           h5.mb-3.text-center 1. Identificación de recursos
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Detectar los recursos necesarios para el proyecto. 
+              i.lista-ul__vineta 
+              span Detectar los recursos necesarios para el proyecto. 
             li
-              i.lista-ul__vineta Determinar la disponibilidad interna y externa. 
+              i.lista-ul__vineta 
+              span Determinar la disponibilidad interna y externa. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--08.mb-4 
           h5.mb-3.text-center 2. Planificación de recursos
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Definir cómo y cuándo se utilizarán los recursos. 
+              i.lista-ul__vineta 
+              span Definir cómo y cuándo se utilizarán los recursos. 
             li
-              i.lista-ul__vineta Establecer actividades, tiempos, responsables y presupuesto. 
+              i.lista-ul__vineta 
+              span Establecer actividades, tiempos, responsables y presupuesto. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--09.mb-4 
           h5.mb-3.text-center 3. Distribución de recursos
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Asignar los recursos a las personas o áreas responsables. 
+              i.lista-ul__vineta 
+              span Asignar los recursos a las personas o áreas responsables. 
             li
-              i.lista-ul__vineta Garantizar la disponibilidad de insumos, herramientas y equipos. 
+              i.lista-ul__vineta 
+              span Garantizar la disponibilidad de insumos, herramientas y equipos. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--10.mb-4 
           h5.mb-3.text-center 4. Ejecución de actividades
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Desarrollar las actividades programadas según lo planificado. 
+              i.lista-ul__vineta 
+              span Desarrollar las actividades programadas según lo planificado. 
             li
-              i.lista-ul__vineta Utilizar correctamente los recursos disponibles. 
+              i.lista-ul__vineta 
+              span Utilizar correctamente los recursos disponibles. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--11.mb-4 
           h5.mb-3.text-center 5. Seguimiento y control
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Verificar el uso adecuado de los recursos. 
+              i.lista-ul__vineta 
+              span Verificar el uso adecuado de los recursos. 
             li
-              i.lista-ul__vineta Monitorear el avance de las actividades y los resultados. 
+              i.lista-ul__vineta 
+              span Monitorear el avance de las actividades y los resultados. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--12.mb-4 
           h5.mb-3.text-center 6. Evaluación y mejora
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Evaluar los resultados obtenidos frente a los objetivos. 
+              i.lista-ul__vineta 
+              span Evaluar los resultados obtenidos frente a los objetivos. 
             li
-              i.lista-ul__vineta Identificar oportunidades de mejora y definir acciones correctivas. 
+              i.lista-ul__vineta 
+              span Identificar oportunidades de mejora y definir acciones correctivas. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--13.mb-4 
           h5.mb-3.text-center 7. Fortalecimiento del proyecto
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Implementar mejoras para optimizar el uso de los recursos. 
+              i.lista-ul__vineta 
+              span Implementar mejoras para optimizar el uso de los recursos. 
             li
-              i.lista-ul__vineta Promover la sostenibilidad y continuidad de la iniciativa.
+              i.lista-ul__vineta 
+              span Promover la sostenibilidad y continuidad de la iniciativa.
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -804,17 +855,23 @@
           p.mb-0 Recursos que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Semillas.
+              i.lista-ul__vineta 
+              span Semillas.
             li
-              i.lista-ul__vineta Fertilizantes.
+              i.lista-ul__vineta 
+              span Fertilizantes.
             li
-              i.lista-ul__vineta Abonos orgánicos.
+              i.lista-ul__vineta 
+              span Abonos orgánicos.
             li
-              i.lista-ul__vineta Alimento animal.
+              i.lista-ul__vineta 
+              span Alimento animal.
             li
-              i.lista-ul__vineta Medicamentos veterinarios.
+              i.lista-ul__vineta 
+              span Medicamentos veterinarios.
             li
-              i.lista-ul__vineta Productos fitosanitarios.
+              i.lista-ul__vineta 
+              span Productos fitosanitarios.
       .col-12.col-lg-6.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
@@ -824,15 +881,20 @@
           p.mb-0 Recursos que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Herramientas agrícolas.
+              i.lista-ul__vineta 
+              span Herramientas agrícolas.
             li
-              i.lista-ul__vineta Equipos de riego.
+              i.lista-ul__vineta 
+              span Equipos de riego.
             li
-              i.lista-ul__vineta Maquinaria.
+              i.lista-ul__vineta 
+              span Maquinaria.
             li
-              i.lista-ul__vineta Equipos de procesamiento.
+              i.lista-ul__vineta 
+              span Equipos de procesamiento.
             li
-              i.lista-ul__vineta Equipos de almacenamiento.
+              i.lista-ul__vineta 
+              span Equipos de almacenamiento.
       .col-12.col-lg-6.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
@@ -842,15 +904,20 @@
           p.mb-0 Servicios que pueden ofrecer
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Asistencia técnica agropecuaria.
+              i.lista-ul__vineta 
+              span Asistencia técnica agropecuaria.
             li
-              i.lista-ul__vineta Capacitaciones.
+              i.lista-ul__vineta 
+              span Capacitaciones.
             li
-              i.lista-ul__vineta Mantenimiento de equipos.
+              i.lista-ul__vineta 
+              span Mantenimiento de equipos.
             li
-              i.lista-ul__vineta Asesorías administrativas.
+              i.lista-ul__vineta 
+              span Asesorías administrativas.
             li
-              i.lista-ul__vineta Servicios veterinarios.
+              i.lista-ul__vineta 
+              span Servicios veterinarios.
       .col-12.col-lg-6.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
@@ -860,20 +927,24 @@
           p.mb-0 Servicios que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
-              i.lista-ul__vineta Transporte de productos.
+              i.lista-ul__vineta 
+              span Transporte de productos.
             li
-              i.lista-ul__vineta Distribución de insumos.
+              i.lista-ul__vineta 
+              span Distribución de insumos.
             li
-              i.lista-ul__vineta Almacenamiento.
+              i.lista-ul__vineta 
+              span Almacenamiento.
             li
-              i.lista-ul__vineta Servicios de carga y descarga.
+              i.lista-ul__vineta 
+              span Servicios de carga y descarga.
 
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Figura 1.
       |    Proceso básico de gestión de proveedores
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema1/img_64.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema1/img_65.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema1/img_64.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
+      img(src='@/assets/curso/tema1/img_65.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
       figcaption Nota. SENA, (2026). 
 
     .subtitulo-destacado.mb-5
