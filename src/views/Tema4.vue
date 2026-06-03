@@ -7,7 +7,7 @@
         span 4
       h1 Grupos étnicos
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img_1.png')})`}"
       )
@@ -192,43 +192,43 @@
         p.mb-3(data-aos="zoom-in-right") La normativa nacional corresponde a las leyes, decretos, políticas y reglamentos establecidos por el Estado para regular las actividades desarrolladas dentro del país.
         p.mb-3(data-aos="zoom-in-right") En Colombia, estas normas orientan aspectos relacionados con:
         .row.align-items-stretch.mb-0
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Producción agropecuaria.
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Medio ambiente.
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Participación comunitaria. 
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Derechos rurales.
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Comercialización.
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Seguridad alimentaria.
-          .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
+          .col-12.col-lg-6.col-xl-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure

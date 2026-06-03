@@ -32,10 +32,10 @@
           .col-12.col-lg-10
             p.mb-0(data-aos="zoom-in-right") Las organizaciones comunitarias pueden definirse como estructuras sociales conformadas por personas que se agrupan voluntariamente para trabajar de manera conjunta en la solución de problemas, la gestión de recursos y la promoción del desarrollo en su comunidad. Estas organizaciones se caracterizan por su naturaleza participativa, su orientación hacia el bienestar colectivo y su capacidad para movilizar esfuerzos comunitarios en torno a objetivos comunes.
         .tarjeta.color-secundario-10.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-3
             .col-12.col-lg-10
               p.mb-0 En el ámbito rural, las organizaciones comunitarias suelen surgir como respuesta a necesidades relacionadas con:
-              ul.lista-ul.mb-0
+              ul.lista-ul.mb-3
                 li
                   i.lista-ul__vineta 
                   span El acceso a recursos productivos.
@@ -51,6 +51,7 @@
                 li
                   i.lista-ul__vineta 
                   span La protección del medio ambiente.
+            
             .col-3.col-lg-2.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/img_3.svg', class="img-fluid")

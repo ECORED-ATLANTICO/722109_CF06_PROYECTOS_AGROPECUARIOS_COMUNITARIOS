@@ -1179,8 +1179,8 @@
       div
         color: textColor($color-acento-contenido)
   &.color-acento-contenido-5
-    border-color: $color-acento-contenido-5 
-    background-color: $color-acento-contenido-5 
+    border-color: #F4ECE4 
+    background-color: #F4ECE4 
     .tarjeta-numerada__numero
       width: 80px
       height: 80px
@@ -1194,6 +1194,8 @@
       left: 0
       top: 50%
       transform: translate(-50%, -50%)
+      @media (max-width: $bp-max-lg)
+        transform: translate(-50%, -50%)
       @media (max-width: $bp-max-md)
         transform: translate(-20%, -50%)
       box-shadow: 0 4px 10px rgba(0,0,0,0.15)

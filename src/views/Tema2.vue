@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Comunidad campesina.
+      h1 Comunidad campesina
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
@@ -140,7 +140,7 @@
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Agricultura familiar
+            h5.mb-3 Agricultura familiar
             p.mb-0 Consiste en el cultivo de productos agrícolas destinados al autoconsumo y a la comercialización.
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
@@ -161,7 +161,7 @@
               img(src='@/assets/curso/tema2/img_13.png', class="img-fluid")
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Producción pecuaria
+            h5.mb-3 Producción pecuaria
             p.mb-0 Incluye la crianza y manejo de animales para producción de alimentos y generación de ingresos.
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
@@ -185,7 +185,7 @@
               img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Agroindustria rural
+            h5.mb-3 Agroindustria rural
             p.mb-0 Corresponde a procesos de transformación de productos agropecuarios para agregar valor y mejorar oportunidades de comercialización.
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
@@ -203,7 +203,7 @@
               img(src='@/assets/curso/tema2/img_15.png', class="img-fluid")
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Comercialización campesina
+            h5.mb-3 Comercialización campesina
             p.mb-0 Son actividades relacionadas con venta, distribución e intercambio de productos rurales.
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0
@@ -224,7 +224,7 @@
               img(src='@/assets/curso/tema2/img_16.png', class="img-fluid")
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Artesanías y actividades complementarias
+            h5.mb-3 Artesanías y actividades complementarias
             p.mb-0 Las comunidades campesinas también desarrollan actividades artesanales y servicios rurales como complemento económico.
             p.mb-0 Actividades relacionadas:
             ul.lista-ul.mb-0

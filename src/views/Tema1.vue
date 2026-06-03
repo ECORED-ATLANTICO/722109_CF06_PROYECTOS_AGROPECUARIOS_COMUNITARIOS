@@ -67,42 +67,42 @@
           SlyderA(tipo="a").tarjeta.tarjeta--blanca.py-4.p-3.mb-0
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos agrícolas
+                h5.mb-3 Proyectos agrícolas
                 p.mb-0 Son proyectos orientados a la producción de cultivos destinados al consumo familiar, comercialización o transformación agroindustrial. 
                 p.mb-0 #[strong Ejemplo:] una comunidad campesina implementa huertas comunitarias para producir hortalizas y abastecer los mercados locales.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos pecuarios
+                h5.mb-3 Proyectos pecuarios
                 p.mb-0 Se enfocan en la producción y manejo de animales para la obtención de alimentos, generación de ingresos y fortalecimiento económico de las familias rurales.
                 p.mb-0 #[strong Ejemplo:] una asociación rural desarrolla un proyecto de producción avícola para mejorar los ingresos de pequeños productores.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos agroindustriales
+                h5.mb-3 Proyectos agroindustriales
                 p.mb-0 Buscan transformar materias primas agropecuarias para agregar valor a los productos y mejorar las oportunidades de comercialización.
                 p.mb-0 #[strong Ejemplo:] un grupo comunitario implementa una planta artesanal para procesar frutas y producir pulpas y mermeladas.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos ambientales y sostenibles
+                h5.mb-3 Proyectos ambientales y sostenibles
                 p.mb-0 Promueven la conservación de los recursos naturales y la implementación de prácticas agropecuarias responsables con el medio ambiente.
                 p.mb-0 #[strong Ejemplo:] una comunidad desarrolla jornadas de reforestación y conservación de fuentes hídricas para proteger el recurso agua.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos de seguridad alimentaria
+                h5.mb-3 Proyectos de seguridad alimentaria
                 p.mb-0 Están dirigidos a garantizar el acceso de las familias rurales a alimentos suficientes, nutritivos y saludables.
                 p.mb-0 #[strong Ejemplo:] varias familias implementan huertas caseras y sistemas integrados de producción para fortalecer el autoconsumo
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos asociativos y de comercialización
+                h5.mb-3 Proyectos asociativos y de comercialización
                 p.mb-0 Fortalecen la organización comunitaria y mejoran los procesos de comercialización de productos agropecuarios mediante el trabajo colectivo.
                 p.mb-0 #[strong Ejemplo:] productores agrícolas crean una cooperativa para vender sus productos directamente en mercados campesinos.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos de capacitación y asistencia técnica
+                h5.mb-3 Proyectos de capacitación y asistencia técnica
                 p.mb-0 Buscan fortalecer los conocimientos y capacidades de la comunidad mediante procesos de formación y acompañamiento técnico agropecuario.
                 p.mb-0 #[strong Ejemplo:] una institución desarrolla capacitaciones sobre producción agroecológica y manejo sostenible del suelo para pequeños productores rurales.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-0 Proyectos de infraestructura rural
+                h5.mb-3 Proyectos de infraestructura rural
                 p.mb-0 Se orientan al mejoramiento de espacios, instalaciones y servicios necesarios para fortalecer las actividades agropecuarias y comunitarias.
                 p.mb-0 #[strong Ejemplo:] una comunidad construye un centro de acopio para almacenar y comercializar productos agrícolas de manera organizada.
 
@@ -214,35 +214,35 @@
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Comunidad beneficiaria
+            h5.mb-3 Comunidad beneficiaria
             p.mb-0 Está conformada por las personas, familias o grupos sociales que reciben los beneficios directos o indirectos del proyecto comunitario agropecuario. Generalmente, corresponde a productores rurales, asociaciones campesinas o comunidades del territorio que presentan una necesidad o problemática específica.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_16.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Organizaciones comunitarias
+            h5.mb-3 Organizaciones comunitarias
             p.mb-0 Son grupos organizados de la comunidad que trabajan de manera colectiva para promover el desarrollo social, económico y productivo del territorio. Estas pueden ser asociaciones campesinas, cooperativas, juntas de acción comunal o grupos productivos rurales.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_17.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Entidades púbicas
+            h5.mb-3 Entidades púbicas
             p.mb-0 Son instituciones del Estado que apoyan el desarrollo de proyectos mediante programas, recursos, asistencia técnica, capacitación o acompañamiento institucional.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_18.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Entidades privadas
+            h5.mb-3 Entidades privadas
             p.mb-0 Corresponden a empresas, fundaciones u organizaciones no gubernamentales que participan en proyectos comunitarios mediante inversión, asesoría, capacitación o apoyo técnico y financiero.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/img_19.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-10.col-lg-7.mb-3.mb-lg-0
-            h5.mb-0 Cooperación internacional
+            h5.mb-3 Cooperación internacional
             p.mb-0 Está conformada por organismos, agencias o instituciones extranjeras que apoyan proyectos de desarrollo rural mediante recursos económicos, asistencia técnica, capacitación o programas de fortalecimiento comunitario.
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
@@ -1061,7 +1061,7 @@
           SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0.h-100
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-0 Normatividad ambiental
+                h5.mb-3 Normatividad ambiental
                 p.mb-0 Orientadas a la protección, conservación y uso sostenible de los recursos naturales en actividades agropecuarias y rurales.
                 ul.lista-ul.mb-0
                   li
@@ -1072,7 +1072,7 @@
                     p.mb-0 Ministerio de Ambiente y Desarrollo Sostenible, Corporaciones Autónomas Regionales (CAR), autoridades ambientales locales.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-0 Normatividad sanitaria y fitosanitaria
+                h5.mb-3 Normatividad sanitaria y fitosanitaria
                 p.mb-0 Normas que establecen condiciones para garantizar la sanidad animal, vegetal y la inocuidad de los productos agropecuarios.
                 ul.lista-ul.mb-0
                   li
@@ -1083,7 +1083,7 @@
                     p.mb-0 ICA, INVIMA, Secretarías de Salud y Agricultura.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-0 Normatividad laboral
+                h5.mb-3 Normatividad laboral
                 p.mb-0 Disposiciones relacionadas con las condiciones de trabajo y prevención de riesgos laborales dentro de las actividades productivas.
                 ul.lista-ul.mb-0
                   li
@@ -1094,7 +1094,7 @@
                     p.mb-0 Ministerio de Trabajo, ARL, entidades de inspección laboral.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-0 Normatividad comercial y administrativa
+                h5.mb-3 Normatividad comercial y administrativa
                 p.mb-0 Normas que regulan el funcionamiento administrativo, comercial y legal de organizaciones y proyectos rurales.
                 ul.lista-ul.mb-0
                   li
@@ -1105,7 +1105,7 @@
                     p.mb-0 Cámara de Comercio, DIAN, Alcaldías Municipales.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-0 Normatividad agropecuaria y rural
+                h5.mb-3 Normatividad agropecuaria y rural
                 p.mb-0 Conjunto de disposiciones orientadas al fortalecimiento de la producción agropecuaria y el desarrollo rural sostenible.
                 ul.lista-ul.mb-0
                   li

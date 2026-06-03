@@ -154,23 +154,23 @@
           SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0.h-100
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-4 Socialización del plan
+                h5.mb-3 Socialización del plan
                 p.mb-5 Antes de iniciar la ejecución de las actividades, es importante presentar el plan de acción a la comunidad y a los actores involucrados en el proyecto. Esto permite generar consenso, aclarar responsabilidades y fortalecer la participación colectiva.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-4 Asignación de responsabilidades
+                h5.mb-3 Asignación de responsabilidades
                 p.mb-0 Cada actividad del plan debe contar con responsables claramente definidos, quienes serán los encargados de coordinar su ejecución y de reportar los avances obtenidos
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-4 Gestión de recursos
+                h5.mb-3 Gestión de recursos
                 p.mb-0 Durante la ejecución del plan es necesario asegurar la disponibilidad de los recursos necesarios para desarrollar las actividades programadas, incluyendo insumos, equipos, financiamiento y talento humano.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-4 Ejecución de actividades
+                h5.mb-3 Ejecución de actividades
                 p.mb-0 Consiste en la realización de las acciones programadas según el cronograma establecido. Esta fase requiere un trabajo coordinado entre los diferentes participantes del proyecto.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
-                h5.mb-4 Seguimiento y control
+                h5.mb-3 Seguimiento y control
                 p.mb-0 El seguimiento permite verificar el cumplimiento de las actividades y evaluar los avances del proyecto. A través de reuniones periódicas, informes de avance y revisión de indicadores, se pueden identificar dificultades y tomar decisiones para mejorar la ejecución.
 </template>
 

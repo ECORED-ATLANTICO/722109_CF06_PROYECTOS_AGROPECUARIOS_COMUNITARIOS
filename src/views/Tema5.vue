@@ -33,7 +33,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-10
               p.mb-0 En el ámbito de los proyectos comunitarios, las fuentes de información permiten conocer aspectos relacionados con:
-              ul.lista-ul.mb-0
+              ul.lista-ul.mb-3
                 li
                   i.lista-ul__vineta 
                   span Las condiciones sociales y económicas de la comunidad.

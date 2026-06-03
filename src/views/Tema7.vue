@@ -97,7 +97,7 @@
                 li
                   i.lista-ul__vineta 
                   span Participación comunitaria en la conservación del territorio.
-              p.mb-0(data-aos="zoom-in-right") Estas acciones contribuyen al desarrollo de sistemas productivos sostenibles.
+              p.mb-3(data-aos="zoom-in-right") Estas acciones contribuyen al desarrollo de sistemas productivos sostenibles.
             .col-3.col-lg-2.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/img_3.svg', class="img-fluid")
