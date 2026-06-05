@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Gestión de proyectos comunitarios y desarrollo rural sostenible.',
     Description:
-      'Este componente formativo desarrolla herramientas para la gestión de proyectos comunitarios orientados al desarrollo rural sostenible. Aborda la formulación, ejecución y evaluación de iniciativas, promoviendo la participación comunitaria, la organización social y el uso responsable de los recursos naturales, integrando conocimientos teóricos y prácticos para fortalecer el bienestar y la sostenibilidad rural.',
+      'Este componente formativo desarrolla herramientas para la gestión de proyectos comunitarios orientados al desarrollo rural sostenible. Aborda la formulación, ejecución y evaluación de iniciativas, promoviendo la participación comunitaria, la organización social y el uso responsable de los recursos naturales, integrando conocimientos teóricos y prácticos para fortalecer el bienestar y la sostenibilidad rural',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
