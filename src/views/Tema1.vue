@@ -1033,7 +1033,9 @@
               .bloque-enlace__accion
                 a.boton-enlace(href="https://www.youtube.com/watch?v=eR6DYs0A82o&t=10s" target="_blank" rel="noopener noreferrer")
                   span.boton-enlace__texto Enlace
-                  i.fas.fa-file-download.boton-enlace__icono
+                  i.fab.fa-youtube.boton-enlace__icono
+                  
+                  
 
     Separador
 
