@@ -82,7 +82,7 @@
             figure
               img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid")
           .col-12.col-lg-10
-            p.mb-0 agrupan a campesinos o pequeños productores con el objetivo de mejorar la producción, la comercialización y el acceso a mercados. Estas asociaciones permiten fortalecer la capacidad productiva de los agricultores y facilitar el acceso a programas de apoyo institucional.
+            p.mb-0 Agrupan a campesinos o pequeños productores con el objetivo de mejorar la producción, la comercialización y el acceso a mercados. Estas asociaciones permiten fortalecer la capacidad productiva de los agricultores y facilitar el acceso a programas de apoyo institucional.
       .pt-4.pt-md-5.pb-4.p-5(titulo="Cooperativas rurales.")
         .row.justify-content-center.align-items-center.mb-5
           .col-3.col-lg-2.mb-3.mb-lg-0
@@ -214,7 +214,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-12.col-lg-12.mb-0
             p.mb-3 Son grupos organizados dentro de la comunidad que se encargan de desarrollar actividades específicas relacionadas con los objetivos de la organización.
-            p.mb-0 Comités más comunes:
+            p.mb-0 Tipos de comités más comunes:
             ul.lista-ul.mb-0
               li
                 i.lista-ul__vineta 

@@ -159,7 +159,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-3 Asignación de responsabilidades
-                p.mb-0 Cada actividad del plan debe contar con responsables claramente definidos, quienes serán los encargados de coordinar su ejecución y de reportar los avances obtenidos
+                p.mb-0 Cada actividad del plan debe contar con responsables claramente definidos, quienes serán los encargados de coordinar su ejecución y de reportar los avances obtenidos.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
                 h5.mb-3 Gestión de recursos

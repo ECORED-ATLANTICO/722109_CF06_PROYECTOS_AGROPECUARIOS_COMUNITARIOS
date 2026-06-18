@@ -53,16 +53,16 @@
           .tarjeta.color-secundario-10.p-5(titulo="Comunidades indígenas")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 Originarios que habitan diferentes territorios y conservan sistemas culturales, organizativos y espirituales propios. Estas comunidades mantienen una estrecha relación con la naturaleza y el territorio, considerando los recursos naturales como parte fundamental de su identidad.
+                p.mb-0 Pueblos originarios que habitan diferentes territorios y conservan sistemas culturales, organizativos y espirituales propios. Estas comunidades mantienen una estrecha relación con la naturaleza y el territorio, considerando los recursos naturales como parte fundamental de su identidad.
           .tarjeta.color-secundario-10.p-5(titulo="Comunidades afrodescendientes")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-3 Están conformadas por poblaciones con herencia cultural africana, que han desarrollado prácticas sociales, culturales y productivas propias en diferentes territorios.
+                p.mb-3 Están conformadas por poblaciones con herencia cultural africana, que han desarrollado prácticas sociales, culturales y productivas propias en diferentes territorios rurales y costeros.
                 p.mb-0 Estas comunidades se caracterizan por fortalecer procesos de trabajo colectivo, comunitarios y conservación cultural.
           .tarjeta.color-secundario-10.p-5(titulo="Pueblo Rrom o gitano")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 Comunidad étnica con identidad cultural, y social propia, reconocida por conservar tradiciones relacionadas con la movilidad, el comercio y las artesanías. Esta comunidad mantiene prácticas culturales y formas de organización transmitidas de generación en generación.
+                p.mb-0 Comunidad étnica con identidad cultural, y social organizativa propia, reconocida por conservar tradiciones relacionadas con la movilidad, el comercio y las artesanías. Esta comunidad mantiene prácticas culturales y formas de organización transmitidas de generación en generación, fortaleciendo su identidad colectiva y participación social.
           .tarjeta.color-secundario-10.p-5(titulo="Comunidades raizales y palenqueras")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
@@ -234,7 +234,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid") 
               h5.mb-0 Desarrollo territorial.
-        p.mb-3(data-aos="zoom-in-right") A continuación, se presentan algunas normas e instituciones nacionales que regulan y orientan el desarrollo agropecuario, ambiental y territorial en Colombia
+        p.mb-3(data-aos="zoom-in-right") A continuación, se presentan algunas normas e instituciones nacionales que regulan y orientan el desarrollo agropecuario, ambiental y territorial en Colombia.
       .col-12.col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema4/img_14.png', class="img-fluid")

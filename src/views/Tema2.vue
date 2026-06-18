@@ -95,7 +95,7 @@
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                 figure
                   img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid") 
-              h5.mb-0 Organizaciones campesinas
+              h5.mb-0 Organizaciones campesinas.
           .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
             .tarjeta-numerada.tarjeta-numerada--vertical.color-acento-contenido-5.h-100
               .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center

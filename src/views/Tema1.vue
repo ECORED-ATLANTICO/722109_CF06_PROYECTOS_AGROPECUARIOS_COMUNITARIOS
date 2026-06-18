@@ -89,7 +89,7 @@
               .col-10.mb-0
                 h5.mb-3 Proyectos de seguridad alimentaria
                 p.mb-0 Están dirigidos a garantizar el acceso de las familias rurales a alimentos suficientes, nutritivos y saludables.
-                p.mb-0 #[strong Ejemplo:] varias familias implementan huertas caseras y sistemas integrados de producción para fortalecer el autoconsumo
+                p.mb-0 #[strong Ejemplo:] varias familias implementan huertas caseras y sistemas integrados de producción para fortalecer el autoconsumo.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
                 h5.mb-3 Proyectos asociativos y de comercialización
@@ -142,7 +142,7 @@
               p.mb-0 Son las personas, familias, asociaciones o comunidades que recibirán los beneficios directos o indirectos del proyecto comunitario agropecuario.
           .row.justify-content-center.align-items-center(titulo="Recursos")
             .col-10.mb-0
-              p.mb-0 Elementos humanos, técnicos, materiales, tecnológicos y financieros necesarios para desarrollar las actividades del proyecto. La disponibilidad y adecuada administración de los recursos influye directamente en la viabilidad y sostenibilidad de la iniciativa comunitaria
+              p.mb-0 Elementos humanos, técnicos, materiales, tecnológicos y financieros necesarios para desarrollar las actividades del proyecto. La disponibilidad y adecuada administración de los recursos influye directamente en la viabilidad y sostenibilidad de la iniciativa comunitaria.
           .row.justify-content-center.align-items-center(titulo="Resultados")
             .col-10.mb-0
               p.mb-0 Son los cambios, logros o beneficios que se esperan alcanzar al finalizar el proyecto. Estos resultados pueden ser productivos, sociales, económicos, ambientales u organizativos.
@@ -158,7 +158,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         p.mb-3(data-aos="zoom-in-right") Las metodologías para formular y estructurar proyectos comunitarios agropecuarios son las formas organizadas de planear y desarrollar una iniciativa rural. Estas incluyen técnicas y herramientas que ayudan a identificar las necesidades de la comunidad, analizar problemas, organizar información y definir las acciones necesarias para alcanzar los objetivos del proyecto. Su aplicación permite que los proyectos se construyan de manera clara, ordenada y acorde con las condiciones sociales, productivas, económicas y ambientales del territorio. Además, facilitan la administración de recursos, la toma de decisiones y el seguimiento de las actividades propuestas.
-        p.mb-0(data-aos="zoom-in-right") Entre las principales metodologías parala formulación de proyectos agropecuarios tenemos:
+        p.mb-0(data-aos="zoom-in-right") Entre las principales metodologías para la formulación de proyectos agropecuarios tenemos:
       .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_9.png', class="img-fluid")
@@ -294,7 +294,7 @@
                   span
                     strong Orientada al bienestar común
                     br
-                    |  Busca beneficios sociales, productivos y económicos.
+                    |  Busca beneficios sociales, productivos y económicos para toda la comunidad.
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-terciario-10.p-4
           .tarjeta-icono-esquina__icono.mb-3
@@ -432,7 +432,7 @@
               img(src="@/assets/curso/tema1/img_29.png", alt="Observación directa en campo del proyecto")
           .crd_hover_txt--body
             h4 Observación directa
-            p Consiste en verificar presencialmente las condiciones reales en las que se desarrollan las actividades del proyecto dentro del territorio. la observación directa resulta fundamental para evaluar variables relacionadas con el manejo de cultivos, estado sanitario animal, conservación de recursos naturales, funcionamiento de infraestructura productiva y nivel de participación comunitaria.
+            p Consiste en verificar presencialmente las condiciones reales en las que se desarrollan las actividades del proyecto dentro del territorio. La observación directa resulta fundamental para evaluar variables relacionadas con el manejo de cultivos, estado sanitario animal, conservación de recursos naturales, funcionamiento de infraestructura productiva y nivel de participación comunitaria.
       .col-12.col-md-6.col-lg-6.col-xl-3.mb-4
         .crd_hover_txt(data-aos="flip-left" data-aos-delay="200" tabindex="1")
           .crd_hover_txt--img
@@ -647,22 +647,18 @@
             td.text-start Establece la duración de cada actividad.
             td.text-start Facilita el cumplimiento de metas y cronogramas productivos.
           tr
-            td.text-start Asignación de tiempos
-            td.text-start Establece la duración de cada actividad.
-            td.text-start Facilita el cumplimiento de metas y cronogramas productivos.
-          tr.bg-table-01
             td.text-start Distribución de responsabilidades
             td.text-start Define responsables para cada tarea.
             td.text-start Fortalece la organización y participación comunitaria.
-          tr
+          tr.bg-table-01
             td.text-start Seguimiento de avances
             td.text-start Permite verificar el cumplimiento de actividades.
             td.text-start Ayuda a identificar retrasos y necesidades de ajuste.
-          tr.bg-table-01
+          tr
             td.text-start Organización de recursos
             td.text-start Coordina recursos humanos, materiales y financieros.
             td.text-start Mejora la eficiencia en la ejecución del proyecto.
-          tr
+          tr.bg-table-01
             td.text-start Flexibilidad
             td.text-start Permite realizar modificaciones frente a imprevistos.
             td.text-start Favorece la adaptación a condiciones climáticas y productivas.
@@ -761,7 +757,7 @@
       SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3
         .tarjeta--color-secundario-10.h-100
           .tarjeta--07.mb-4 
-          h5.mb-3.text-center 1. Identificación de recursos
+          h5.mb-3.text-center A. Identificación de recursos
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -771,7 +767,7 @@
               span Determinar la disponibilidad interna y externa. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--08.mb-4 
-          h5.mb-3.text-center 2. Planificación de recursos
+          h5.mb-3.text-center B. Planificación de recursos
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -781,7 +777,7 @@
               span Establecer actividades, tiempos, responsables y presupuesto. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--09.mb-4 
-          h5.mb-3.text-center 3. Distribución de recursos
+          h5.mb-3.text-center C. Distribución de recursos
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -791,7 +787,7 @@
               span Garantizar la disponibilidad de insumos, herramientas y equipos. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--10.mb-4 
-          h5.mb-3.text-center 4. Ejecución de actividades
+          h5.mb-3.text-center D. Ejecución de actividades
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -801,7 +797,7 @@
               span Utilizar correctamente los recursos disponibles. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--11.mb-4 
-          h5.mb-3.text-center 5. Seguimiento y control
+          h5.mb-3.text-center E. Seguimiento y control
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -811,7 +807,7 @@
               span Monitorear el avance de las actividades y los resultados. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--12.mb-4 
-          h5.mb-3.text-center 6. Evaluación y mejora
+          h5.mb-3.text-center F. Evaluación y mejora
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -821,7 +817,7 @@
               span Identificar oportunidades de mejora y definir acciones correctivas. 
         .tarjeta--color-secundario-10.h-100
           .tarjeta--13.mb-4 
-          h5.mb-3.text-center 7. Fortalecimiento del proyecto
+          h5.mb-3.text-center G. Fortalecimiento del proyecto
           ul.lista-ul.text-center.mb-0
             li
               i.lista-ul__vineta 
@@ -851,7 +847,7 @@
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema1/img_60.png', class="img-fluid") 
-          h5.mb-0 1. Proveedores de insumos agrícolas y pecuarios
+          h5.mb-0 a. Proveedores de insumos agrícolas y pecuarios
           p.mb-0 Recursos que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
@@ -877,7 +873,7 @@
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema1/img_61.png', class="img-fluid") 
-          h5.mb-0 2. Proveedores de herramientas y equipos
+          h5.mb-0 b. Proveedores de herramientas y equipos
           p.mb-0 Recursos que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
@@ -900,7 +896,7 @@
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema1/img_62.png', class="img-fluid") 
-          h5.mb-0 3. Proveedores de servicios técnicos
+          h5.mb-0 c. Proveedores de servicios técnicos
           p.mb-0 Servicios que pueden ofrecer
           ul.lista-ul.text-center.mb-0
             li
@@ -923,7 +919,7 @@
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema1/img_63.png', class="img-fluid")
-          h5.mb-0 4. Proveedores logísticos y de transporte
+          h5.mb-0 d. Proveedores logísticos y de transporte
           p.mb-0 Servicios que pueden suministrar
           ul.lista-ul.text-center.mb-0
             li
