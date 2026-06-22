@@ -700,7 +700,7 @@
               li
                 i.lista-ul__vineta 
                 span Resultados esperados.
-          .tarjeta.color-secundario-10.p-5(titulo="Software y herramientas digitales")
+          .tarjeta.color-secundario-10.p-5(titulo="<em>Software</em> y herramientas digitales")
             p.mb-3 Actualmente existen herramientas tecnológicas que permiten elaborar cronogramas de manera más organizada y dinámica. Entre las más utilizadas se encuentran:
             ul.lista-ul.mb-0
               li
@@ -939,8 +939,8 @@
       h5 Figura 1.
       |    Proceso básico de gestión de proveedores
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema1/img_64.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
-      img(src='@/assets/curso/tema1/img_65.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
+      img(src='@/assets/curso/tema1/img_64.svg', class="img-fluid d-none d-lg-block", alt="La figura detalla el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
+      img(src='@/assets/curso/tema1/img_65.svg', class="img-fluid d-block d-lg-none", alt="La figura detalla el  proceso básico de gestión de proveedores. El proceso inicia con la identificación de necesidades, seguida de la búsqueda de proveedores, selección y evaluación, y compra o contratación. Posteriormente continúa con la entrega y verificación de recursos o servicios, el uso de los recursos, el seguimiento y evaluación del desempeño, y finaliza con el mejoramiento y continuidad del proceso. Cada etapa incluye un ícono representativo relacionado con verificación, búsqueda, evaluación, contratación, entrega, operación, control y crecimiento, facilitando la comprensión visual del proceso de gestión de proveedores.").mb-3
       figcaption Nota. SENA, (2026). 
 
     .subtitulo-destacado.mb-5
@@ -1063,10 +1063,12 @@
                 p.mb-0 Orientadas a la protección, conservación y uso sostenible de los recursos naturales en actividades agropecuarias y rurales.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta #[strong Aspectos que regula:]
+                    i.lista-ul__vineta
+                    span Aspectos que regula:
                     p.mb-0 Uso del agua, conservación del suelo, manejo de residuos, protección ambiental y producción sostenible. 
                   li
-                    i.lista-ul__vineta #[strong Entidades relacionadas:]
+                    i.lista-ul__vineta 
+                    span Entidades relacionadas:
                     p.mb-0 Ministerio de Ambiente y Desarrollo Sostenible, Corporaciones Autónomas Regionales (CAR), autoridades ambientales locales.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
@@ -1074,10 +1076,12 @@
                 p.mb-0 Normas que establecen condiciones para garantizar la sanidad animal, vegetal y la inocuidad de los productos agropecuarios.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta #[strong Aspectos que regula:]
+                    i.lista-ul__vineta 
+                    span Aspectos que regula:
                     p.mb-0 Control de plagas y enfermedades, manejo sanitario animal, inocuidad alimentaria y uso de productos veterinarios y fitosanitarios.
                   li
-                    i.lista-ul__vineta #[strong Entidades relacionadas:]
+                    i.lista-ul__vineta 
+                    span Entidades relacionadas:
                     p.mb-0 ICA, INVIMA, Secretarías de Salud y Agricultura.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
@@ -1085,10 +1089,12 @@
                 p.mb-0 Disposiciones relacionadas con las condiciones de trabajo y prevención de riesgos laborales dentro de las actividades productivas.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta #[strong Aspectos que regula:]
+                    i.lista-ul__vineta 
+                    span Aspectos que regula:
                     p.mb-0 Seguridad y salud en el trabajo, uso de elementos de protección personal, prevención de accidentes y condiciones laborales.
                   li
-                    i.lista-ul__vineta #[strong Entidades relacionadas:]
+                    i.lista-ul__vineta 
+                    span Entidades relacionadas:
                     p.mb-0 Ministerio de Trabajo, ARL, entidades de inspección laboral.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
@@ -1096,10 +1102,12 @@
                 p.mb-0 Normas que regulan el funcionamiento administrativo, comercial y legal de organizaciones y proyectos rurales.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta #[strong Aspectos que regula:]
+                    i.lista-ul__vineta 
+                    span Aspectos que regula:
                     p.mb-0 Registro de asociaciones, comercialización de productos, contabilidad, facturación, contratos y formalización empresarial.
                   li
-                    i.lista-ul__vineta #[strong Entidades relacionadas:]
+                    i.lista-ul__vineta 
+                    span Entidades relacionadas:
                     p.mb-0 Cámara de Comercio, DIAN, Alcaldías Municipales.
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-lg-10.mb-3.mb-lg-0
@@ -1107,10 +1115,12 @@
                 p.mb-0 Conjunto de disposiciones orientadas al fortalecimiento de la producción agropecuaria y el desarrollo rural sostenible.
                 ul.lista-ul.mb-0
                   li
-                    i.lista-ul__vineta #[strong Aspectos que regula:]
+                    i.lista-ul__vineta 
+                    span Aspectos que regula:
                     p.mb-0 Producción agrícola y pecuaria, buenas prácticas agropecuarias, asociatividad y programas de desarrollo rural.
                   li
-                    i.lista-ul__vineta #[strong Entidades relacionadas:]
+                    i.lista-ul__vineta 
+                    span Entidades relacionadas:
                     p.mb-0 Ministerio de Agricultura y Desarrollo Rural, Agencia de Desarrollo Rural (ADR), SENA.
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
@@ -1120,9 +1130,9 @@
             figure.mb-0
               img(src='@/assets/curso/tema1/img_78.png', alt='Equipo de grabación de audio').img-fluid
           .bloque-audio__contenido
-            p.bloque-audio__etiqueta.mb-2 XXXXXX
+            p.bloque-audio__etiqueta.mb-2 ¿Sabías que? A continuación, lo invitamos al siguiente pódcast.
             TarjetaAudio.color-acento-botones.mb-0(
-              texto="<h5 class='bloque-audio__titulo-player mb-0'>XXXXXX</h5>"
+              texto="<h5 class='bloque-audio__titulo-player mb-0'>Comunidades que transforman: Gestión y sostenibilidad en proyectos rurales</h5>"
               :audio="require('@/assets/curso/tema1/img_78.png')"
               @audio-hover="mostrarIndicadorTarjetaAudio = true"
             )

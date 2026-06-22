@@ -284,7 +284,7 @@
                 p.mb-5 Promueve la seguridad alimentaria, la agricultura sostenible y el desarrollo rural.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-4 Naciones Unidas (ONU)
+                h5.mb-4 Organización de las Naciones Unidas (ONU)
                 p.mb-5 Impulsa los derechos humanos, la paz, el desarrollo sostenible y la cooperación entre países.
             .row.justify-content-center.align-items-center
               .col-10.mb-0

@@ -354,9 +354,9 @@
             figure.mb-0
               img(src='@/assets/curso/tema1/img_78.png', alt='Equipo de grabación de audio').img-fluid
           .bloque-audio__contenido
-            p.bloque-audio__etiqueta.mb-2 XXXXXX
+            p.bloque-audio__etiqueta.mb-2 ¿Sabías que? A continuación, lo invitamos al siguiente pódcast.
             TarjetaAudio.color-acento-botones.mb-0(
-              texto="<h5 class='bloque-audio__titulo-player mb-0'>XXXXXX</h5>"
+              texto="<h5 class='bloque-audio__titulo-player mb-0'>Territorios sostenibles: Gestión ambiental en el campo</h5>"
               :audio="require('@/assets/curso/tema1/img_78.png')"
               @audio-hover="mostrarIndicadorTarjetaAudio = true"
             )
