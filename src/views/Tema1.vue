@@ -1133,7 +1133,7 @@
             p.bloque-audio__etiqueta.mb-2 ¿Sabías que? A continuación, lo invitamos al siguiente pódcast.
             TarjetaAudio.color-acento-botones.mb-0(
               texto="<h5 class='bloque-audio__titulo-player mb-0'>Comunidades que transforman: Gestión y sostenibilidad en proyectos rurales</h5>"
-              :audio="require('@/assets/curso/tema1/img_78.png')"
+              :audio="require('@/assets/curso/podcast/podcast_1.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = true"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
