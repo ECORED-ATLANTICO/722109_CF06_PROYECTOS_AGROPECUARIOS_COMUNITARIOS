@@ -59,7 +59,7 @@
                 p.mb-5 Estudios técnicos que identifican y analizan los posibles efectos ambientales de un proyecto sobre el entorno natural y social.
             .row.justify-content-center.align-items-center
               .col-10.mb-0
-                h5.mb-4 Registros de uso de recursos 
+                h5.mb-4 Registros de uso de recursos naturales
                 p.mb-5 Documentos o controles que permiten llevar seguimiento al aprovechamiento y utilización de recursos como agua, suelo, flora o fauna.
 
     Separador

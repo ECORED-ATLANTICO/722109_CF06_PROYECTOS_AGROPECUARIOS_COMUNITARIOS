@@ -170,7 +170,7 @@
             figure
               img(src='@/assets/curso/tema1/img_10.svg', class="img-fluid")
           .col-12.col-lg-10.mb-0
-            p.mb-0 Organiza y planifica proyectos de manera estructurada permitiendo definir claramente los objetivos, actividades, recursos, indicadores y resultados esperados, facilitando el seguimiento y evaluación del proyecto.
+            p.mb-0 Organiza y planifica proyectos de manera estructurada, permitiendo definir claramente los objetivos, actividades, recursos, indicadores y resultados esperados, facilitando el seguimiento y evaluación del proyecto.
             p.mb-0 Esta metodología ayuda a identificar qué se quiere lograr, cómo se va a realizar y cuáles serán los medios para verificar el cumplimiento de los objetivos planteados.
       .tarjeta.color-secundario-10.p-5(titulo="Enfoque participativo rural (EPR)")
         .row.justify-content-center.align-items-center.mb-0
@@ -722,7 +722,7 @@
     Separador
 
     #t_1_6.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 1.6 Gestión de recursos, proveedores y de financiación
+      .h2(data-aos="fade-right") 1.6 Gestión de recursos, proveedores y gestión de financiación
     .mb-0 
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
@@ -752,6 +752,8 @@
       .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_51.png', class="img-fluid")
+    
+    .p-mb-3  #[strong Procesos de gestión de recursos]
 
     .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
       SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3

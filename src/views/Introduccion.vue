@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/introduccion/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El componente formativo Gestión de proyectos comunitarios y desarrollo rural sostenible se orienta a fortalecer las competencias técnicas, sociales y administrativas necesarias para la formulación, ejecución, seguimiento y evaluación de iniciativas productivas en contextos rurales. En el marco del programa proyectos agropecuarios comunitarios, este módulo busca preparar al aprendiz para liderar procesos organizativos y productivos que respondan a las necesidades reales del territorio, promoviendo la participación de la comunidad y la sostenibilidad integral de los sistemas agropecuarios.
+        p.mb-0 El componente formativo Gestión de proyectos comunitarios y desarrollo rural sostenible se orienta a fortalecer las competencias técnicas, sociales y administrativas necesarias para la formulación, ejecución, seguimiento y evaluación de iniciativas productivas en contextos rurales. En el marco del programa Técnico profesional en proyectos agropecuarios comunitarios, este módulo busca preparar al aprendiz para liderar procesos organizativos y productivos que respondan a las necesidades reales del territorio, promoviendo la participación de la comunidad y la sostenibilidad integral de los sistemas agropecuarios.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1
