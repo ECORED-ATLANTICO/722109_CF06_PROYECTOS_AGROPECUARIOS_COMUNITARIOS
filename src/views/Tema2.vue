@@ -198,6 +198,9 @@
               li
                 i.lista-ul__vineta 
                 span Elaboración de conservas y alimentos procesados. 
+              li
+                i.lista-ul__vineta 
+                span Producción artesanal. 
           .col-10.col-lg-3.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img_15.png', class="img-fluid")
